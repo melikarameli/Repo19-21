@@ -9,7 +9,7 @@
     user-select: none;
     transition: bottom 0.4s;
 }
-.keyboardInput {
+#keyboardInput {
     color: rgb(124, 176, 201);
     font-size: large;
     position: absolute; 
